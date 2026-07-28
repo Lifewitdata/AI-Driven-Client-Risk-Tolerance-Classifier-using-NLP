@@ -1,4 +1,4 @@
-# TD Wealth: AI-Driven Client Risk Tolerance Classifier using NLP
+# AI-Driven Client Risk Tolerance Classifier using NLP
 
 ## 📖 Overview
 This project simulates an NLP and AI solution for the TD Wealth AI2 team. It analyzes unstructured advisor meeting notes to automatically classify a client's stated Risk Tolerance. It then compares this NLP-extracted risk against the client's actual portfolio composition to identify compliance risks and rebalancing opportunities.
